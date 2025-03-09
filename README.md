@@ -1,2 +1,7 @@
-# rustbox-fancontroller
-A fan controller in rust for my 1U rack with 4 rpi.
+## RPI4_FANP17
+
+This projects needs rustc version 1.85 or superior.
+
+If your need to update your rustc use rustup update command.
+
+
